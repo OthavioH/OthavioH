@@ -3,6 +3,10 @@
   <a href="https://github.com/OthavioH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OthavioH&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
+  <div align="left">
+  <a href="https://github.com/OthavioH">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthavioH&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **OthavioH/OthavioH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
