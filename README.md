@@ -5,7 +5,7 @@
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthavioH&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
   
-  ## Sou desenvolvedor web 👨‍💻
+  ## Desenvolvedor Web 👨‍💻
   ### Profissionalmente, trabalhei mais com Frontend do que com o Backend, mas gosto muito de trabalhar com qualquer um dos dois.
 
   
