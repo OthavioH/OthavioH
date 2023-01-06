@@ -10,7 +10,7 @@
 
   
   ## Também crio alguns projetos pessoais utilizando algumas dessas tecnologias abaixo:
-  - React Native
-  - AngularJS
-  - Node.js
-  - Unity Engine
+  ### - React Native
+  ### - AngularJS
+  ### - Node.js
+  ### - Unity Engine
