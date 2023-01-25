@@ -11,5 +11,8 @@
   ### - AngularJS
   ### - Flutter
   ### - Java
+  ### - Boostrap
+  ### - Tailwind
+  ### - Socket.io
   ### - Firebase
   ### - Unity Engine
