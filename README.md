@@ -5,14 +5,14 @@
 
   
   ## 🐱‍💻Below you can find some technologies I used in personal projects or in companies I've worked for:
-  ### - Node.js
-  ### - React
-  ### - React Native
-  ### - AngularJS
-  ### - Flutter
-  ### - Java
-  ### - Boostrap
-  ### - Tailwind
-  ### - Socket.io
-  ### - Firebase
-  ### - Unity Engine
+  - Node.js
+  - React
+  - React Native
+  - AngularJS
+  - Flutter
+  - Java
+  - Boostrap
+  - Tailwind
+  - Socket.io
+  - Firebase
+  - Unity Engine
