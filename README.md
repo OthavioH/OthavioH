@@ -1,15 +1,15 @@
-<div align="left">
-  <a href="https://github.com/OthavioH">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=OthavioH&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthavioH&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
-  
-  ## Desenvolvedor Web 👨‍💻
-  ### Profissionalmente, trabalhei mais com Frontend do que com o Backend, mas gosto muito de trabalhar com qualquer um dos dois.
+  # 🧪 Welcome to my test lab
+  ## Web Developer 👨‍💻 | 4 years of experience
+  ### This is my test lab because when I have a crazy idea I come here, show and test my projects. ❌ Sometimes the projects or codes are not productive but I try it.
+  ### I create some project and solutions mostly in Angular, React and Node using JS/TS but sometimes I try to learn something new like creating a game on Unity Engine. Here I have some abandoned projects and others that sometimes I come to add or fix something but I love creating stuff.
 
   
-  ## Também crio alguns projetos pessoais utilizando algumas dessas tecnologias abaixo:
+  ## Below you can find some technologies I used in personal projects or in companies I've worked for:
+  ### - Node.js
+  ### - React
   ### - React Native
   ### - AngularJS
-  ### - Node.js
+  ### - Flutter
+  ### - Java
+  ### - Firebase
   ### - Unity Engine
