@@ -12,7 +12,7 @@
   - AngularJS
   - Flutter
   - Java
-  - Boostrap
+  - Bootstrap
   - Tailwind
   - Socket.io
   - Firebase
