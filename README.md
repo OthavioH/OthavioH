@@ -9,7 +9,7 @@
   - Node.js
   - React
   - React Native
-  - AngularJS
+  - Angular
   - Flutter
   - Java
   - Bootstrap
