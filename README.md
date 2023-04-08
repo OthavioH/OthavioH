@@ -14,6 +14,8 @@
   - Java
   - Bootstrap
   - Tailwind
+  - Styled components
+  - Redux
   - Socket.io
   - Firebase
   - Unity Engine
