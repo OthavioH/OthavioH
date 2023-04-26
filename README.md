@@ -1,5 +1,6 @@
   # 🧪 Welcome to my lab
-  #### This is my laboratory because when I have a crazy idea I come here and create it.
+  #### You ask me: why is it your laboratory?.
+  #### And I answer you: because here is where I create, test and learn new stuff to improve my knowledge and solve many problems with softwares, and I love doing it.
   
   ## Web Developer 👨‍💻 | 3 years of experience
   
