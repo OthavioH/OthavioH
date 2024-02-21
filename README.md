@@ -8,11 +8,12 @@
 
   
   ## 💻 Here you can find some technologies I've used in personal projects or in companies I've worked for:
-  - Node.js
+  - Flutter
   - React
+  - Next
+  - Node.js
   - React Native
   - Angular
-  - Flutter
   - Java
   - Bootstrap
   - Tailwind
