@@ -3,8 +3,8 @@
   
   ## Web Developer 👨‍💻 | 3 years of experience
   
-  #### I have 3 years of professional experience and I've been studying programming for 6 years. Studying and creating projects are things that I love to do.
-  #### I create some projects and solutions mostly in Angular, React and Node using JS/TS but sometimes I try to learn something new like creating a game on Unity Engine. Here I have all my greatest projects and I love them because I've learned a lot from them and they are simple but significantly incredibles for me.
+  #### I have 3 years of professional experience and I've been studying programming for 7 years. Studying and creating projects are things that I love to do.
+  #### I am a passionate and highly motivated software developer dedicated to create innovative and high quality technology solutions. Currently studying Computer Science at the Federal Institute of Santa Catarina (Brazil), I am a Flutter and React Junior developer, but my journey includes also experiences with Node, Angular, Java and Next.
 
   
   ## 💻 Here you can find some technologies I've used in personal projects or in companies I've worked for:
